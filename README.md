@@ -18,7 +18,7 @@
 
 ---
 
-### 机器学习-简介系列([学习目录->](https://github.com/MorvanZhou/tutorials/blob/gh-pages/ML_intro/README.md), [Youtube->](https://www.youtube.com/playlist?list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin), [优酷->](http://list.youku.com/albumlist/show?id=27892935&ascending=1&page=1))
+### 机器学习-简介系列 ([学习目录->](https://github.com/MorvanZhou/tutorials/blob/gh-pages/ML_intro/README.md), [Youtube->](https://www.youtube.com/playlist?list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin), [优酷->](http://list.youku.com/albumlist/show?id=27892935&ascending=1&page=1))
 
   [<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/ML_intro/ML%20brief%20intro.png?raw=true' height=200>](https://github.com/MorvanZhou/tutorials/blob/gh-pages/ML_intro/README.md)
 
@@ -26,7 +26,7 @@
 
 ---
 
-### Tensorflow([学习目录->](https://github.com/MorvanZhou/tutorials/blob/gh-pages/tensorflowTUT/Readme.md), [Youtube->](https://www.youtube.com/playlist?list=PLXO45tsB95cKI5AIlf5TxxFPzb-0zeVZ8), [优酷->](http://www.youku.com/playlist_show/id_27327189.html))
+### Tensorflow ([学习目录->](https://github.com/MorvanZhou/tutorials/blob/gh-pages/tensorflowTUT/Readme.md), [Youtube->](https://www.youtube.com/playlist?list=PLXO45tsB95cKI5AIlf5TxxFPzb-0zeVZ8), [优酷->](http://www.youku.com/playlist_show/id_27327189.html))
 
   [<img src="https://github.com/MorvanZhou/tutorials/blob/gh-pages/tensorflowTUT/Tensorflow%20course%20cover%20page.jpg?raw=true" height='200'>](https://github.com/MorvanZhou/tutorials/blob/gh-pages/tensorflowTUT/Readme.md)
 

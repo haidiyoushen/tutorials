@@ -89,3 +89,16 @@
 ## 赞助, 让教学变得更好
 支付宝赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/zhifubao.jpeg?raw=true' height='200'>    微信赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/WechatIMG1.png?raw=true' height='200'>
 Paypal赞助: [<img src='https://www.paypalobjects.com/zh_XC/i/btn/btn_donateCC_LG.gif'>](https://www.paypal.com/c2/cgi-bin/webscr?cmd=_flow&SESSION=PYfx15gIAkE9tdN35o9o34NLt5TnzD4WhwTf4jl3Gvy9wnzOP1YMK4qOP1y&dispatch=5885d80a13c0db1f8e263663d3faee8d333dc9aadeed3fe0b5b299d55fd35542)
+Paypal 赞助: [![paypal](https://www.paypalobjects.com/zh_XC/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=morvanzhou%40gmail%2ecom&lc=C2&item_name=MorvanPython&currency_code=AUD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="morvanzhou@gmail.com">
+<input type="hidden" name="lc" value="C2">
+<input type="hidden" name="item_name" value="MorvanPython">
+<input type="hidden" name="currency_code" value="AUD">
+<input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHosted">
+<input type="image" src="https://www.paypalobjects.com/zh_XC/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal——最安全便捷的在线支付方式！">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1">
+</form>
+

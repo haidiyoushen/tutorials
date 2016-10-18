@@ -4,7 +4,7 @@
 
 [<img src="https://github.com/MorvanZhou/tutorials/blob/gh-pages/%E7%89%87%E5%A4%B4.png?raw=true" height="200">](http://morvanzhou.github.io/tutorials/)
 
-同时也需要大家的赞助一份力量, 让教学视频做得更加的优秀. (支付宝, 微信赞助请拉倒屏幕最下面~)
+同时也需要大家的赞助一份力量, 让教学视频做得更加的优秀. (支付宝, 微信, Paypal赞助请拉倒屏幕最下面~)
 
 ## 大陆没办法翻墙, 我们还有优酷, 网易云
 [优酷频道主页](http://i.youku.com/pythontutorial)
@@ -137,4 +137,4 @@ Tkinter 是 python 自带的可视化窗口包, 可以用来做 simulation 的�
 ---
 
 ## 赞助, 让教学变得更好
-支付宝赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/zhifubao.jpeg?raw=true' height='200'>    微信赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/WechatIMG1.png?raw=true' height='200'>
+支付宝赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/zhifubao.jpeg?raw=true' height='200'>    微信赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/WechatIMG1.png?raw=true' height='200'>   Paypal赞助: [<img src='https://www.paypalobjects.com/zh_XC/i/btn/btn_donateCC_LG.gif'>](https://www.paypal.com/c2/cgi-bin/webscr?cmd=_flow&SESSION=PYfx15gIAkE9tdN35o9o34NLt5TnzD4WhwTf4jl3Gvy9wnzOP1YMK4qOP1y&dispatch=5885d80a13c0db1f8e263663d3faee8d333dc9aadeed3fe0b5b299d55fd35542)

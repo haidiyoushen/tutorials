@@ -135,3 +135,5 @@ Tkinter 是 python 自带的可视化窗口包, 可以用来做 simulation 的�
 
 ---
 
+## 赞助, 让教学变得更好
+支付宝赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/zhifubao.jpeg?raw=true' height='200'>    微信赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/WechatIMG1.png?raw=true' height='200'>

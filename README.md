@@ -2,7 +2,7 @@
 这个 github 是我做 python 机器学习视频教程的支柱. 里面都是视频中提到的代码源码. 主要做的方面是机器学习的, 包括神经网络等等. 
 自己的 research 是在神经网络和强化学习方面, 所以以后也会补上强化学习的教程, 敬请期待. 欢迎大家分享传播, 让我们都能轻松的学习~
 
-[<img src="https://github.com/MorvanZhou/tutorials/blob/master/%E7%89%87%E5%A4%B4.png?raw=true" height="200">](http://morvanzhou.github.io/tutorials/)
+[<img src="https://github.com/MorvanZhou/tutorials/blob/gh-pages/%E7%89%87%E5%A4%B4.png?raw=true" height="200">](http://morvanzhou.github.io/tutorials/)
 同时也需要大家的赞助一份力量, 让教学视频做得更加的优秀. (支付宝, 微信赞助请拉倒屏幕最下面~)
 
 ## 大陆没办法翻墙, 我们还有优酷, 网易云
@@ -25,8 +25,8 @@
 
 ---
 
-### [机器学习-简介系列](https://github.com/MorvanZhou/tutorials/blob/master/ML_intro/README.md)
-[<img src='https://github.com/MorvanZhou/tutorials/blob/master/ML_intro/ML%20brief%20intro.png?raw=true' height=200>](https://github.com/MorvanZhou/tutorials/blob/master/ML_intro/README.md)
+### [机器学习-简介系列](https://github.com/MorvanZhou/tutorials/blob/gh-pages/ML_intro/README.md)
+[<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/ML_intro/ML%20brief%20intro.png?raw=true' height=200>](https://github.com/MorvanZhou/tutorials/blob/gh-pages/ML_intro/README.md)
 
 这是对于机器学习的各种方法的一个简短介绍, 还有学好机器学习很多实用的小技巧.
 
@@ -34,12 +34,12 @@
 
 [机器学习-简介系列 视频教程(优酷)](http://list.youku.com/albumlist/show?id=27892935&ascending=1&page=1)
 
-以及<机器学习-简介系列>的[学习目录](https://github.com/MorvanZhou/tutorials/blob/master/ML_intro/README.md)
+以及<机器学习-简介系列>的[学习目录](https://github.com/MorvanZhou/tutorials/blob/gh-pages/ML_intro/README.md)
 
 ---
 
-### [Tensorflow](https://github.com/MorvanZhou/tutorials/blob/master/tensorflowTUT/Readme.md)
-[<img src="https://github.com/MorvanZhou/tutorials/blob/master/tensorflowTUT/Tensorflow%20course%20cover%20page.jpg?raw=true" height='200'>](https://github.com/MorvanZhou/tutorials/blob/master/tensorflowTUT/Readme.md)
+### [Tensorflow](https://github.com/MorvanZhou/tutorials/blob/gh-pages/tensorflowTUT/Readme.md)
+[<img src="https://github.com/MorvanZhou/tutorials/blob/gh-pages/tensorflowTUT/Tensorflow%20course%20cover%20page.jpg?raw=true" height='200'>](https://github.com/MorvanZhou/tutorials/blob/gh-pages/tensorflowTUT/Readme.md)
 
 Tensorflow 是神经网络方面的主力军之一. 这一套教程从最基础的方面,一直简单风趣地讲解到最高级的方面. 是入门的Tensorflow 神经网络的首选.
 
@@ -47,12 +47,12 @@ Tensorflow 是神经网络方面的主力军之一. 这一套教程从最基础�
 
 [Tensorflow 神经网络 深度学习 视频教程(优酷)](http://www.youku.com/playlist_show/id_27327189.html)
 
-以及 Tensorflow 的[学习目录](https://github.com/MorvanZhou/tutorials/blob/master/tensorflowTUT/Readme.md)
+以及 Tensorflow 的[学习目录](https://github.com/MorvanZhou/tutorials/blob/gh-pages/tensorflowTUT/Readme.md)
 
 ---
 
-### [SciKit-Learn (sklearn)](https://github.com/MorvanZhou/tutorials/blob/master/sklearnTUT/README.md)
-[<img src='https://github.com/MorvanZhou/tutorials/blob/master/sklearnTUT/sklearn%20cover%20page.jpg?raw=true' height='200'>](https://github.com/MorvanZhou/tutorials/blob/master/sklearnTUT/README.md)
+### [SciKit-Learn (sklearn)](https://github.com/MorvanZhou/tutorials/blob/gh-pages/sklearnTUT/README.md)
+[<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/sklearnTUT/sklearn%20cover%20page.jpg?raw=true' height='200'>](https://github.com/MorvanZhou/tutorials/blob/gh-pages/sklearnTUT/README.md)
 
 SciKit-Learn 汇集了各种各样的机器学习方法, 是一个全方面的汇总. 对于不同的项目, 我们可能会用到不同的机器学习方法. 掌握 sklearn 的通用学习形式, 我们就能打遍天下无敌是.
 
@@ -60,12 +60,12 @@ SciKit-Learn 汇集了各种各样的机器学习方法, 是一个全方面的�
 
 [scikit-learn 机器学习 视频教程(优酷)](http://www.youku.com/playlist_show/id_27469882.html)
 
-以及 Sklearn 的[学习目录](https://github.com/MorvanZhou/tutorials/blob/master/sklearnTUT/README.md)
+以及 Sklearn 的[学习目录](https://github.com/MorvanZhou/tutorials/blob/gh-pages/sklearnTUT/README.md)
 
 ---
 
-### [Theano](https://github.com/MorvanZhou/tutorials/blob/master/theanoTUT/README.md)
-[<img src='https://github.com/MorvanZhou/tutorials/blob/master/theanoTUT/theano%20cover%20page.jpg?raw=true' height='200'>](https://github.com/MorvanZhou/tutorials/blob/master/theanoTUT/README.md)
+### [Theano](https://github.com/MorvanZhou/tutorials/blob/gh-pages/theanoTUT/README.md)
+[<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/theanoTUT/theano%20cover%20page.jpg?raw=true' height='200'>](https://github.com/MorvanZhou/tutorials/blob/gh-pages/theanoTUT/README.md)
 
 Theano 算得上是 Tensorflow 的前身, 和 Tensorflow 有着类似的结构形式. 目前的 Tensorflow 还不能很好的支持 Windows 系统, 所以如果想在 Windows 系统上玩转神经网络, Theano 是一个很好的替代选择.
 
@@ -73,13 +73,13 @@ Theano 算得上是 Tensorflow 的前身, 和 Tensorflow 有着类似的结构�
 
 [Theano 神经网络 机器学习 视频教程(优酷)](http://www.youku.com/playlist_show/id_27743371.html)
 
-以及 Theano 的[学习目录](https://github.com/MorvanZhou/tutorials/blob/master/theanoTUT/README.md)
+以及 Theano 的[学习目录](https://github.com/MorvanZhou/tutorials/blob/gh-pages/theanoTUT/README.md)
 
 
 ---
 
-### [Matplotlib](https://github.com/MorvanZhou/tutorials/blob/master/matplotlibTUT/README.md)
-[<img src='https://github.com/MorvanZhou/tutorials/blob/master/matplotlibTUT/cover%20page.jpg?raw=true' height='200'>](https://github.com/MorvanZhou/tutorials/blob/master/matplotlibTUT/README.md)
+### [Matplotlib](https://github.com/MorvanZhou/tutorials/blob/gh-pages/matplotlibTUT/README.md)
+[<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/matplotlibTUT/cover%20page.jpg?raw=true' height='200'>](https://github.com/MorvanZhou/tutorials/blob/gh-pages/matplotlibTUT/README.md)
 
 有了机器学习的各种方法, 我很还需要很多其他的工具来完善学习过程, 提高自己的学习效率. 其中之一就是把数据,结果都可视化出来. 有了直观的可视化结果, 我们就能更好的掌握知识. Matplotlib 就是 python 的一个可视化神器.
 
@@ -87,12 +87,12 @@ Theano 算得上是 Tensorflow 的前身, 和 Tensorflow 有着类似的结构�
 
 [Matplotlib 图像可视化 视频教程(优酷)](http://www.youku.com/playlist_show/id_28097045.html)
 
-以及 Matplotlib 的[学习目录](https://github.com/MorvanZhou/tutorials/blob/master/matplotlibTUT/README.md)
+以及 Matplotlib 的[学习目录](https://github.com/MorvanZhou/tutorials/blob/gh-pages/matplotlibTUT/README.md)
 
 ---
 
-### [Numpy & Pandas](https://github.com/MorvanZhou/tutorials/blob/master/numpy%26pandas/README.md)
-[<img src='https://github.com/MorvanZhou/tutorials/blob/master/numpy&pandas/cover%20page.jpg?raw=true' height='200'>](https://github.com/MorvanZhou/tutorials/blob/master/numpy%26pandas/README.md)
+### [Numpy & Pandas](https://github.com/MorvanZhou/tutorials/blob/gh-pages/numpy%26pandas/README.md)
+[<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/numpy&pandas/cover%20page.jpg?raw=true' height='200'>](https://github.com/MorvanZhou/tutorials/blob/gh-pages/numpy%26pandas/README.md)
 
 科学运算是工科生必不可少的一个工具, numpy 和 pandas 就是为了我们在 python 中运用高效的科学运算所开发出来的.
 
@@ -100,7 +100,7 @@ Theano 算得上是 Tensorflow 的前身, 和 Tensorflow 有着类似的结构�
 
 [Numpy & Pandas 数据处理 视频教程(优酷)](http://www.youku.com/playlist_show/id_27329155.html)
 
-以及 Numpy & Pandas 的[学习目录](https://github.com/MorvanZhou/tutorials/blob/master/numpy%26pandas/README.md)
+以及 Numpy & Pandas 的[学习目录](https://github.com/MorvanZhou/tutorials/blob/gh-pages/numpy%26pandas/README.md)
 
 ---
 
@@ -122,8 +122,8 @@ Theano 算得上是 Tensorflow 的前身, 和 Tensorflow 有着类似的结构�
 
 ---
 
-### [Python Tkinter](https://github.com/MorvanZhou/tutorials/blob/master/tkinterTUT/README.md)
-[<img src='https://github.com/MorvanZhou/tutorials/blob/master/tkinterTUT/cover%20page.jpg?raw=true' height='200'>](https://github.com/MorvanZhou/tutorials/blob/master/tkinterTUT/README.md)
+### [Python Tkinter](https://github.com/MorvanZhou/tutorials/blob/gh-pages/tkinterTUT/README.md)
+[<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/tkinterTUT/cover%20page.jpg?raw=true' height='200'>](https://github.com/MorvanZhou/tutorials/blob/gh-pages/tkinterTUT/README.md)
 
 Tkinter 是 python 自带的可视化窗口包, 可以用来做 simulation 的可视化, 而且他也是跨平台兼容. 
 
@@ -131,7 +131,7 @@ Tkinter 是 python 自带的可视化窗口包, 可以用来做 simulation 的�
 
 [Tkinter 跨平台 GUI 视频教学(优酷)](http://www.youku.com/playlist_show/id_27433146.html)
 
-以及 tkinter 的[学习目录](https://github.com/MorvanZhou/tutorials/blob/master/tkinterTUT/README.md)
+以及 tkinter 的[学习目录](https://github.com/MorvanZhou/tutorials/blob/gh-pages/tkinterTUT/README.md)
 
 ---
 

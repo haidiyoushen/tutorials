@@ -1,5 +1,5 @@
 # Tkinter 学习目录 (莫烦Python)
-<img src='https://github.com/MorvanZhou/tutorials/blob/master/tkinterTUT/cover%20page.jpg?raw=true' height=200>
+<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/tkinterTUT/cover%20page.jpg?raw=true' height=200>
 
 Tkinter 是 python 的一个跨平GUi 包. 他是一个制作窗口文件, 做模拟的最简单,也是最方便的模块. 不用下载安装其他的包, 也不用担心哪个系统是不是不兼容.
 
@@ -7,7 +7,8 @@ Tkinter 是 python 的一个跨平GUi 包. 他是一个制作窗口文件, 做�
  * 窗口的各种小部件;
  * 实际运用的一个登陆窗口的例子;
 
-更多其他的学习[教程资源点这里](https://github.com/MorvanZhou/tutorials/blob/master/README.md)
+更多其他的学习[教程资源点这里](http://morvanzhou.github.io/tutorials/)
+
 同时也需要大家的赞助一份力量, 让教学视频做得更加的优秀. (支付宝, 微信赞助请拉倒屏幕最下面~)
 
 ---

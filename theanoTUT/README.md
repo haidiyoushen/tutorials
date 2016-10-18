@@ -1,6 +1,6 @@
 
 # Theano 学习目录 (莫烦Python)
-<img src='https://github.com/MorvanZhou/tutorials/blob/master/theanoTUT/theano%20cover%20page.jpg?raw=true' height=200>
+<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/theanoTUT/theano%20cover%20page.jpg?raw=true' height=200>
 
 Theano 算得上是 Tensorflow 的前身, 也是一种非常优秀的神经网络模块. 他可以实现各种各样的神经网络模式. 而且用起来也很自由. 兼容Windows, MacOS, Linux.
 
@@ -11,7 +11,8 @@ Theano 算得上是 Tensorflow 的前身, 也是一种非常优秀的神经网�
  * 运用它强大的数据库;
  * 机器学习的一些重要原则;
 
-更多其它的学习[教程资源点这里](https://github.com/MorvanZhou/tutorials/blob/master/README.md)
+更多其它的学习[教程资源点这里](http://morvanzhou.github.io/tutorials/)
+
 同时也需要大家的赞助一份力量, 让教学视频做得更加的优秀. (支付宝, 微信赞助请拉倒屏幕最下面~)
 
 ---

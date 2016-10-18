@@ -1,6 +1,6 @@
 
 # 机器学习-简介系列 学习目录 (莫烦Python)
-<img src='https://github.com/MorvanZhou/tutorials/blob/master/ML_intro/ML%20brief%20intro.png?raw=true' height=200>
+<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/ML_intro/ML%20brief%20intro.png?raw=true' height=200>
 
 机器学习本身很复杂, 而且万事开口难. 不过如果我们有了生动的比喻和有趣的说明, 相信在困难的事情都能被慢慢解决. 这个教学视频系列不会专注算法的实现,
 而是注重用简单的介绍理解复杂的东西.
@@ -9,7 +9,8 @@
  * 机器学习的各种方法;
  * 机器学习的各种小窍门;
 
-更多其它的学习[教程资源点这里](https://github.com/MorvanZhou/tutorials/blob/master/README.md)
+更多其它的学习[教程资源点这里](http://morvanzhou.github.io/tutorials/)
+
 同时也需要大家的赞助一份力量, 让教学视频做得更加的优秀. (支付宝, 微信赞助请拉倒屏幕最下面~)
 
 ---

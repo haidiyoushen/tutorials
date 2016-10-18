@@ -1,6 +1,6 @@
 
 # Numpy & Pandas 学习目录 (莫烦Python)
-<img src='https://github.com/MorvanZhou/tutorials/blob/master/numpy&pandas/cover%20page.jpg?raw=true' height=200>
+<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/numpy&pandas/cover%20page.jpg?raw=true' height=200>
 
 
 Numpy 和 Pandas 都是当下最重要的科学运算模块, 他们集成了优秀的算法, 让你的计算速度飞速提升. 同样也是数据整理的好助手. 将你凌乱的数据划分成整齐好看的数据.
@@ -10,7 +10,8 @@ Numpy 和 Pandas 都是当下最重要的科学运算模块, 他们集成了优�
  * Pandas 的一般使用;
  * 数据可视化等;
  
-更多其它的学习[教程资源点这里](https://github.com/MorvanZhou/tutorials/blob/master/README.md)
+更多其它的学习[教程资源点这里](http://morvanzhou.github.io/tutorials/)
+
 同时也需要大家的赞助一份力量, 让教学视频做得更加的优秀. (支付宝, 微信赞助请拉倒屏幕最下面~)
 
 ---

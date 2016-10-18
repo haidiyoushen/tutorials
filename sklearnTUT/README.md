@@ -1,6 +1,6 @@
 
 # Sklearn 学习目录 (莫烦Python)
-<img src='https://github.com/MorvanZhou/tutorials/blob/master/sklearnTUT/sklearn%20cover%20page.jpg?raw=true' height=200>
+<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/sklearnTUT/sklearn%20cover%20page.jpg?raw=true' height=200>
 
 
 Sklearn 是汇集了多种机器学习方法的 python 包. 如果是入门机器学习, 这里面总能有适合你问题的机器学习方法. 而且他以高度统一的学习模式规范了所有学习方法. 我们知道用一种, 就知道使用其他所有种的学习方法. Sklearn 是一款很好上手的机器学习包.
@@ -12,7 +12,8 @@ Sklearn 是汇集了多种机器学习方法的 python 包. 如果是入门机�
  * 运用它强大的数据库;
  * 机器学习的一些重要原则;
 
-更多其它的学习[教程资源点这里](https://github.com/MorvanZhou/tutorials/blob/master/README.md)
+更多其它的学习[教程资源点这里](http://morvanzhou.github.io/tutorials/)
+
 同时也需要大家的赞助一份力量, 让教学视频做得更加的优秀. (支付宝, 微信赞助请拉倒屏幕最下面~)
 
 ---

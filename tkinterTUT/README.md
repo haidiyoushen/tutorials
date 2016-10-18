@@ -8,7 +8,8 @@ Tkinter 是 python 的一个跨平GUi 包. 他是一个制作窗口文件, 做�
  * 实际运用的一个登陆窗口的例子;
 
 更多其他的学习[教程资源点这里](https://github.com/MorvanZhou/tutorials/blob/master/README.md)
- 
+同时也需要大家的赞助一份力量, 让教学视频做得更加的优秀. (支付宝, 微信赞助请拉倒屏幕最下面~)
+
 ---
 ## *点击标题进入Youtube视频教程*
 
@@ -86,3 +87,9 @@ Tkinter 是 python 的一个跨平GUi 包. 他是一个制作窗口文件, 做�
 15. [**例子 登录窗口3**](https://www.youtube.com/watch?v=0mwWNHfSu0Y&list=PLXO45tsB95cJU56K4EtkG0YNGBZCuDwAH&index=15)
   * [代码](https://github.com/MorvanZhou/tutorials/tree/master/tkinterTUT/tk15_login_example)
   * [优酷链接](http://v.youku.com/v_show/id_XMTYxMTIxNzY2NA==.html?f=27433146&o=1)
+
+
+---
+
+## 赞助, 让教学变得更好
+支付宝赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/zhifubao.jpeg?raw=true' height='200'>    微信赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/WechatIMG1.png?raw=true' height='200'>

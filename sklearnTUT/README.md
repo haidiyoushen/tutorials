@@ -13,7 +13,8 @@ Sklearn 是汇集了多种机器学习方法的 python 包. 如果是入门机�
  * 机器学习的一些重要原则;
 
 更多其它的学习[教程资源点这里](https://github.com/MorvanZhou/tutorials/blob/master/README.md)
- 
+同时也需要大家的赞助一份力量, 让教学视频做得更加的优秀. (支付宝, 微信赞助请拉倒屏幕最下面~)
+
 ---
 ## *点击标题进入Youtube视频教程*
 
@@ -74,3 +75,8 @@ Sklearn 是汇集了多种机器学习方法的 python 包. 如果是入门机�
   * 保存学好的 model. ([代码](https://github.com/MorvanZhou/tutorials/blob/master/sklearnTUT/sk11_save.py))
   * [优酷链接](http://v.youku.com/v_show/id_XMTYyOTkwNzA2OA==.html?f=27469882&o=1)
 
+
+---
+
+## 赞助, 让教学变得更好
+支付宝赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/zhifubao.jpeg?raw=true' height='200'>    微信赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/WechatIMG1.png?raw=true' height='200'>

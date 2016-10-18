@@ -12,7 +12,8 @@ Theano 算得上是 Tensorflow 的前身, 也是一种非常优秀的神经网�
  * 机器学习的一些重要原则;
 
 更多其它的学习[教程资源点这里](https://github.com/MorvanZhou/tutorials/blob/master/README.md)
- 
+同时也需要大家的赞助一份力量, 让教学视频做得更加的优秀. (支付宝, 微信赞助请拉倒屏幕最下面~)
+
 ---
 ## *点击标题进入Youtube视频教程*
 
@@ -85,3 +86,9 @@ Theano 算得上是 Tensorflow 的前身, 也是一种非常优秀的神经网�
 14. [**总结和更多**](https://www.youtube.com/watch?v=2VzuMu589MQ&list=PLXO45tsB95cKpDID642AjNkygrSR5X15T&index=15)
   * 总结之前的东西和之后可以继续学习的东西. ([代码](https://github.com/MorvanZhou/tutorials/blob/master/theanoTUT/theano14_summary.py))
   * [优酷链接](http://v.youku.com/v_show/id_XMTY2NTA0ODA5Mg==.html?f=27743371&o=1)
+
+
+---
+
+## 赞助, 让教学变得更好
+支付宝赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/zhifubao.jpeg?raw=true' height='200'>    微信赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/WechatIMG1.png?raw=true' height='200'>

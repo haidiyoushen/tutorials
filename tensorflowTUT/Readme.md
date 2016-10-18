@@ -13,6 +13,7 @@
   * RNN 循环神经网络.
   
 更多其它的学习[教程资源点这里](https://github.com/MorvanZhou/tutorials/blob/master/README.md)
+同时也需要大家的赞助一份力量, 让教学视频做得更加的优秀. (支付宝, 微信赞助请拉倒屏幕最下面~)
 
 ---
 ## *点击标题进入 Youtube 视频教程*
@@ -140,3 +141,7 @@
   * 对于上面的例子的训练可视化. (代码同上)
   * [优酷链接](http://v.youku.com/v_show/id_XMTczMDcxMjEwNA==.html?f=27327189&o=1)
 
+---
+
+## 赞助, 让教学变得更好
+支付宝赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/zhifubao.jpeg?raw=true' height='200'>    微信赞助:<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/Donation/WechatIMG1.png?raw=true' height='200'>

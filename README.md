@@ -3,7 +3,7 @@
 自己的 research 是在神经网络和强化学习方面, 所以以后也会补上强化学习的教程, 敬请期待. 欢迎大家分享传播, 让我们都能轻松的学习~
 
 [<img src="https://github.com/MorvanZhou/tutorials/blob/master/%E7%89%87%E5%A4%B4.png?raw=true" height="200">](http://morvanzhou.github.io/tutorials/)
-
+同时也需要大家的赞助一份力量, 让教学视频做得更加的优秀. (支付宝, 微信赞助请拉倒屏幕最下面~)
 
 ## 大陆没办法翻墙, 我们还有优酷, 网易云
 [优酷频道主页](http://i.youku.com/pythontutorial)

@@ -73,8 +73,10 @@
   
   [<img src='https://github.com/MorvanZhou/tutorials/blob/master/ML_intro/speed%20up.png?raw=true' height=150>](https://www.youtube.com/watch?v=UlUGGB7akfE&list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin&index=11)
 
+* **处理不均很数据** [Youtube->](https://www.youtube.com/watch?v=doXeC9_vMhg&list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin&index=12), [优酷->](http://v.youku.com/v_show/id_XMTc2OTk5NDA4MA==.html?f=27892935&o=1)
 
-
+  [<img src='https://github.com/MorvanZhou/tutorials/blob/gh-pages/ML_intro/imbalance.png?raw=true' height=150>](https://www.youtube.com/watch?v=doXeC9_vMhg&list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin&index=12)
+  
 ---
 
 ## 赞助, 让教学变得更好

@@ -160,7 +160,10 @@
 25. **RNN LSTM 例子2 回归的学习过程可视化** [Youtube->](https://www.youtube.com/watch?v=V-pvtUThhNE&list=PLXO45tsB95cKI5AIlf5TxxFPzb-0zeVZ8&index=26), [优酷->](http://v.youku.com/v_show/id_XMTczMDcxMjEwNA==.html?f=27327189&o=1)
   * 对于上面的例子的训练可视化. 
   * 代码同上
-  
+ 
+26. **Autoencoder 神经网络非监督学习** [Youtube->](https://www.youtube.com/watch?v=F2h3tbC-sBk&list=PLXO45tsB95cKI5AIlf5TxxFPzb-0zeVZ8&index=27), [优酷->](http://v.youku.com/v_show/id_XMTc3NjQ4NjE0OA==.html?f=27327189&o=1)
+  * 使用 Autoencoder 达到非监督学习的目的. 
+  * [代码](https://github.com/MorvanZhou/tutorials/tree/master/tensorflowTUT/tf21_autoencoder)
 
 ---
 

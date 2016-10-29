@@ -10,7 +10,8 @@
   * 制作简单神经网络;
   * 处理分类, 回归问题, 深度学习;
   * CNN 卷积神经网络;
-  * RNN 循环神经网络.
+  * RNN 循环神经网络;
+  * Autoencoder 自编码.
   
 更多其它的学习[教程资源点这里](http://morvanzhou.github.io/tutorials/)
 

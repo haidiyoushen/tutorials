@@ -66,7 +66,7 @@ Keras 是一个兼容 Theano 和 Tensorflow 的神经网络高级包, 用他来�
 
 
 9. **Autoencoder 自编码** [Youtube->](https://www.youtube.com/watch?v=OubNgB-Fa4M&index=9&list=PLXO45tsB95cKhCSIgTgIfjtG5y0Bf_TIY), [优酷->](http://v.youku.com/v_show/id_XMTc4MDI2MDg1Mg==.html?f=28505797&o=1)
-  * 请参考在 <机器学习-简介系列> 中 Autoencoder 的简短介绍 ([Youtube->](), [优酷->]())
+  * 请参考在 <机器学习-简介系列> 中 Autoencoder 的简短介绍 ([Youtube->](https://www.youtube.com/watch?v=w8HmXgXnVEo&list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin&index=6), [优酷->](http://v.youku.com/v_show/id_XMTgwNDc1NjYwMA==.html?f=27892935&o=1))
   * [代码](https://github.com/MorvanZhou/tutorials/blob/master/kerasTUT/9-Autoencoder_example.py)
 
 

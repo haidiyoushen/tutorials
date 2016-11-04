@@ -42,7 +42,7 @@
 
 * **什么是自编码 Autoencoder?** [Youtube->](https://www.youtube.com/watch?v=w8HmXgXnVEo&list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin&index=6), [优酷->](http://v.youku.com/v_show/id_XMTgwNDc1NjYwMA==.html?f=27892935&o=1)
 
-  <a href="https://www.youtube.com/watch?v=w8HmXgXnVEo&list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin&index=6"><img src="https://github.com/MorvanZhou/tutorials/blob/gh-pages/ML_intro/autoencoder.png?raw=true' height=150" alt="Autoencoder"></a>
+  <a href="https://www.youtube.com/watch?v=w8HmXgXnVEo&list=PLXO45tsB95cIFm8Y8vMkNNPPXAtYXwKin&index=6"><img src="https://github.com/MorvanZhou/tutorials/blob/gh-pages/ML_intro/autoencoder.png?raw=true" height=150 alt="Autoencoder"></a>
 
 ---
 
